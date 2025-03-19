@@ -1,1 +1,1 @@
-# BobWorldGameUnity
+В случае ошибки удалить папку Library
